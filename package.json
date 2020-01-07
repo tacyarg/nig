@@ -1,0 +1,8 @@
+{
+  "name": "nig",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tacyarg/nig.git",
+  "author": "Jacob Dent <jdent@tacyarg.com>",
+  "license": "MIT"
+}
